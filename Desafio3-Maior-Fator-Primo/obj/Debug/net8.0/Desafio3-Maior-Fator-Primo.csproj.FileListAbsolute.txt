@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\bin\Debug\net8.0\Desafio3-Maior-Fator-Primo.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\bin\Debug\net8.0\Desafio3-Maior-Fator-Primo.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\bin\Debug\net8.0\Desafio3-Maior-Fator-Primo.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\bin\Debug\net8.0\Desafio3-Maior-Fator-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\bin\Debug\net8.0\Desafio3-Maior-Fator-Primo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\refint\Desafio3-Maior-Fator-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\Desafio3-Maior-Fator-Primo.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio3-Maior-Fator-Primo\obj\Debug\net8.0\ref\Desafio3-Maior-Fator-Primo.dll

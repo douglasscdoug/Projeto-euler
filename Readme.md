@@ -8,6 +8,7 @@ Aqui está uma lista dos desafios atualmente incluídos neste repositório:
 
 - **Desafio - 1**: Calcular a soma dos múltiplos de 3 ou 5, menores que o valor de parâmetro.
 - **Desafio - 2**: Calcular a soma dos números pares da sequência de Fibonacci.
+- **Desafio - 3**: Calcular o maior fator primo de um número.
 
 Fique à vontade para contribuir com mais desafios ou melhorias nas soluções existentes!
 
