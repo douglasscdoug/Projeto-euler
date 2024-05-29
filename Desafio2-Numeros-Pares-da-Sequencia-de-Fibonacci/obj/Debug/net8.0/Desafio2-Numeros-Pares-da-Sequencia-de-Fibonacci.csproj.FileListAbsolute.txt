@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\bin\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\bin\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\bin\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\bin\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\bin\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\refint\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\obj\Debug\net8.0\ref\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.dll
