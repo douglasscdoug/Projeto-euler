@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\bin\Debug\net8.0\Desafio4-Maior-Palindromo.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\bin\Debug\net8.0\Desafio4-Maior-Palindromo.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\bin\Debug\net8.0\Desafio4-Maior-Palindromo.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\bin\Debug\net8.0\Desafio4-Maior-Palindromo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\bin\Debug\net8.0\Desafio4-Maior-Palindromo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\refint\Desafio4-Maior-Palindromo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\Desafio4-Maior-Palindromo.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio4-Maior-Palindromo\obj\Debug\net8.0\ref\Desafio4-Maior-Palindromo.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370fbda94a0184cd01741ec5242dc72cea1705ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3427b4e8c45951fdb824510200dfc0351f5970")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
