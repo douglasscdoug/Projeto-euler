@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\bin\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\bin\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\bin\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\bin\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\bin\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\refint\Desafio5-Menor-Multiplo-Comum.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\Desafio5-Menor-Multiplo-Comum.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio5-Menor-Multiplo-Comum\obj\Debug\net8.0\ref\Desafio5-Menor-Multiplo-Comum.dll

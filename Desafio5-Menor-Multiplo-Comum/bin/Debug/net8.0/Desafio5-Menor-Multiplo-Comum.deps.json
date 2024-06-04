@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio5-Menor-Multiplo-Comum/1.0.0": {
+        "runtime": {
+          "Desafio5-Menor-Multiplo-Comum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio5-Menor-Multiplo-Comum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
