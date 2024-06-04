@@ -11,7 +11,7 @@ Aqui está uma lista dos desafios atualmente incluídos neste repositório:
 - **Desafio - 3**: Calcular o maior fator primo de um número.
 - **Desafio - 4**: Calcular o maior palindromo (número igual mesmo quando invertido).
 - **Desafio - 5**: Calcular o menor multiplo em comum dos números de 1 a n.
-- **Desafio - 6**:
+- **Desafio - 6**: Calcular a diferença entre a soma dos quadrados dos primeiros n números naturais e o quadrado da soma.
 
 Fique à vontade para contribuir com mais desafios ou melhorias nas soluções existentes!
 
