@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\bin\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\bin\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\bin\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\bin\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\bin\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\refint\Desafio6-Diferenca-Soma-dos-Quadrados.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\Desafio6-Diferenca-Soma-dos-Quadrados.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio6-Diferenca-Soma-dos-Quadrados\obj\Debug\net8.0\ref\Desafio6-Diferenca-Soma-dos-Quadrados.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio5-Menor-Multiplo-Comum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dcd8428d1f5c4937040bc02ef4b9ab1fa8bba13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d28e05fe7fc10ca90e73e65cc49c3b53b8102f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio5-Menor-Multiplo-Comum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio5-Menor-Multiplo-Comum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
