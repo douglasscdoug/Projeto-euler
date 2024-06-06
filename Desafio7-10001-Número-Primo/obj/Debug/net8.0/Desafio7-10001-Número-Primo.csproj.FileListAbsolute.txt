@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\bin\Debug\net8.0\Desafio7-10001-Número-Primo.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\bin\Debug\net8.0\Desafio7-10001-Número-Primo.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\bin\Debug\net8.0\Desafio7-10001-Número-Primo.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\bin\Debug\net8.0\Desafio7-10001-Número-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\bin\Debug\net8.0\Desafio7-10001-Número-Primo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\refint\Desafio7-10001-Número-Primo.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\Desafio7-10001-Número-Primo.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio7-10001-Número-Primo\obj\Debug\net8.0\ref\Desafio7-10001-Número-Primo.dll

@@ -12,6 +12,7 @@ Aqui está uma lista dos desafios atualmente incluídos neste repositório:
 - **Desafio - 4**: Calcular o maior palindromo (número igual mesmo quando invertido).
 - **Desafio - 5**: Calcular o menor multiplo em comum dos números de 1 a n.
 - **Desafio - 6**: Calcular a diferença entre a soma dos quadrados dos primeiros n números naturais e o quadrado da soma.
+- **Desafio - 7**: Achar o 10001º número primo.
 
 Fique à vontade para contribuir com mais desafios ou melhorias nas soluções existentes!
 

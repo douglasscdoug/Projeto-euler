@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Desafio4-Maior-Palindromo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Desafio7-10001-Número-Primo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c32894e6ddb69cbe0c8448946f62e775d63080")]
-[assembly: System.Reflection.AssemblyProductAttribute("Desafio4-Maior-Palindromo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Desafio4-Maior-Palindromo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Desafio7-10001-Número-Primo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Desafio7-10001-Número-Primo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
