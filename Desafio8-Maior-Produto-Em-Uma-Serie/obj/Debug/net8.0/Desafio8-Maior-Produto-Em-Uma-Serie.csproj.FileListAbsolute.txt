@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\bin\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\bin\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\bin\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\bin\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\bin\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\refint\Desafio8-Maior-Produto-Em-Uma-Serie.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\Desafio8-Maior-Produto-Em-Uma-Serie.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio8-Maior-Produto-Em-Uma-Serie\obj\Debug\net8.0\ref\Desafio8-Maior-Produto-Em-Uma-Serie.dll
