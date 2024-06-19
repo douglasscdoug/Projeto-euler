@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj": {}
+    "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj": {
+    "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj",
         "projectName": "Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci",
-        "projectPath": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj",
+        "projectPath": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Douglas Soares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\obj\\",
+        "outputPath": "C:\\Users\\Douglas Soares\\Documents\\Projetos\\Learn\\CsharpProjects\\Projeto-euler\\Desafio2-Numeros-Pares-da-Sequencia-de-Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\bin\Debug\net8.0\Desafio9-Tripla-Pitagorica.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\bin\Debug\net8.0\Desafio9-Tripla-Pitagorica.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\bin\Debug\net8.0\Desafio9-Tripla-Pitagorica.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\bin\Debug\net8.0\Desafio9-Tripla-Pitagorica.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\bin\Debug\net8.0\Desafio9-Tripla-Pitagorica.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\refint\Desafio9-Tripla-Pitagorica.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\Desafio9-Tripla-Pitagorica.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio9-Tripla-Pitagorica\obj\Debug\net8.0\ref\Desafio9-Tripla-Pitagorica.dll
