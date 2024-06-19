@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\bin\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\bin\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\bin\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\bin\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\bin\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\refint\Desafio10-Soma-Dos-Numeros-Primos.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\Desafio10-Soma-Dos-Numeros-Primos.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio10-Soma-Dos-Numeros-Primos\obj\Debug\net8.0\ref\Desafio10-Soma-Dos-Numeros-Primos.dll
