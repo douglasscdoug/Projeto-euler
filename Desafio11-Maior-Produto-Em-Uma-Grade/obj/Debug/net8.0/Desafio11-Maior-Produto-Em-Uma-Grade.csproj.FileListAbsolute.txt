@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\bin\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\bin\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\bin\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\bin\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\bin\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\refint\Desafio11-Maior-Produto-Em-Uma-Grade.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\Desafio11-Maior-Produto-Em-Uma-Grade.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio11-Maior-Produto-Em-Uma-Grade\obj\Debug\net8.0\ref\Desafio11-Maior-Produto-Em-Uma-Grade.dll
