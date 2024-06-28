@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\bin\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\bin\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\bin\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\bin\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\bin\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\refint\Desafio12-Maior-Numero-Triangular-Divisivel.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\Desafio12-Maior-Numero-Triangular-Divisivel.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio12-Maior-Numero-Triangular-Divisivel\obj\Debug\net8.0\ref\Desafio12-Maior-Numero-Triangular-Divisivel.dll

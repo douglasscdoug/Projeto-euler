@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio12-Maior-Numero-Triangular-Divisivel/1.0.0": {
+        "runtime": {
+          "Desafio12-Maior-Numero-Triangular-Divisivel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio12-Maior-Numero-Triangular-Divisivel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -17,6 +17,7 @@ Aqui está uma lista dos desafios atualmente incluídos neste repositório:
 - **Desafio - 9**: Calcular o produto de um terno pitagórico que seja igual a "n".
 - **Desafio - 10**: Calcular a soma de todos os números primos abaixo de "n".
 - **Desafio - 11**: Calcular o maior produto em uma grade.
+- **Desafio - 12**: Maior número triangular divisel por "n".
 
 Fique à vontade para contribuir com mais desafios ou melhorias nas soluções existentes!
 
