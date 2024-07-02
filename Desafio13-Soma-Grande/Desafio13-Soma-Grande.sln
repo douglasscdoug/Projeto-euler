@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio13-Soma-Grande", "Desafio13-Soma-Grande.csproj", "{4BE44B65-1206-4745-9BAE-7040B5864228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE44B65-1206-4745-9BAE-7040B5864228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE44B65-1206-4745-9BAE-7040B5864228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE44B65-1206-4745-9BAE-7040B5864228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE44B65-1206-4745-9BAE-7040B5864228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B92221F-680D-4CF2-B5A4-D31E0A40FE5C}
+	EndGlobalSection
+EndGlobal

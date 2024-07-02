@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio13-Soma-Grande/1.0.0": {
+        "runtime": {
+          "Desafio13-Soma-Grande.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio13-Soma-Grande/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

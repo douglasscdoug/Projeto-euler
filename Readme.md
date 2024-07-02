@@ -18,6 +18,7 @@ Aqui está uma lista dos desafios atualmente incluídos neste repositório:
 - **Desafio - 10**: Calcular a soma de todos os números primos abaixo de "n".
 - **Desafio - 11**: Calcular o maior produto em uma grade.
 - **Desafio - 12**: Maior número triangular divisel por "n".
+- **Desafio - 13**: Descobrir os 10 primeiros algarismos da soma dos 100 números de 50 algarismos.
 
 Fique à vontade para contribuir com mais desafios ou melhorias nas soluções existentes!
 

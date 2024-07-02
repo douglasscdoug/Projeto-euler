@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\bin\Debug\net8.0\Desafio13-Soma-Grande.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\bin\Debug\net8.0\Desafio13-Soma-Grande.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\bin\Debug\net8.0\Desafio13-Soma-Grande.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\bin\Debug\net8.0\Desafio13-Soma-Grande.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\bin\Debug\net8.0\Desafio13-Soma-Grande.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\refint\Desafio13-Soma-Grande.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\Desafio13-Soma-Grande.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\Projeto-euler\Desafio13-Soma-Grande\obj\Debug\net8.0\ref\Desafio13-Soma-Grande.dll
